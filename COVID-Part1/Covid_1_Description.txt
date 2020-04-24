@@ -1,0 +1,9 @@
+This COVID-Part1 is a subpart of the CovidPandemic_DataViz repository.
+These data exploration, mining and visualization are done as per the blog created by Orange Data Mining.
+It contains two files:
+i) The Covid_1 Orange Data Mining Workflow
+ii) The Covid_1 resultant table created after COVID-19 Data Exploration.
+
+These data exploration, mining and visualization are done as per the blog created by Orange Data Mining.
+(Link: https://orange.biolab.si/blog/2020/2020-04-02-covid-19-basic/)
+ 
