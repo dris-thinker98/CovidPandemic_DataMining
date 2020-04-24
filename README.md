@@ -1,4 +1,4 @@
-# CovidPandemic_DataViz
+# CovidPandemic_DataMining
 Using Orange Data Mining (version 3.25.0) for exploring, data mining and visualizing COVID-19 Pandemic Data.
 
 This project is done as per the Orange Data Mining blog on COVID-19. (Link: https://orange.biolab.si/blog/)
