@@ -1,0 +1,13 @@
+This COVID-Part1 is a subpart of the CovidPandemic_DataMining repository.
+These data exploration, mining and visualization are done as per the blog created by Orange Data Mining.
+(Link: https://orange.biolab.si/blog/2020/2020-04-02-covid-19-basic/)
+It contains the following files:
+i) The Covid_2 Orange Data Mining Workflow
+	Part(i): To understand GeoMap and Choropleth Map functionality.
+	Part(ii): To manipulate data with reference to different attributes and use time slicing tool to create a resultant data table from which the GeoMap and Chloropleth Map can be visualized as changing with time on a day-to-day basis from the starting date in the data to the current day scenario.
+ii) Resultant data table from data manipulation.
+iii) The sample GeoMap and Choropleth Map images.
+iv) The video imagery created due to time slicing (date wise) to understand the nature of COVID-19 spread in different countries as days progress.
+
+The dataset used here can be accessed from the link given below:
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
