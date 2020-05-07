@@ -1,0 +1,17 @@
+This COVID-Part3 is a subpart of he CovidPandemic_dataMining repository.
+These data exploration, mining and visualization are done as per the blog created by Orange Data Mining.
+(Link: https://orange.biolab.si/blog/2020/2020-4-015-covid-19-part-3/)
+It contains the following files:
+i) The Covid_3 Orange Data Mining Workflow
+ii) The Covid_3.py
+ii) Different line charts (as timeseries data)
+	a) Normal Line Chart from data of selected countries
+	b) Difference/Quotient Graphs
+		- Difference Graph (US vs China)
+		- India (Normal vs Difference graph)
+		- China (Normal vs Difference graph)
+		- Quotient graph (China vs India): Scaling free growth
+	c) Smoothened Quotient Graph (France vs India) - using Moving Transform (Window width:5, Aggregation function: Mean)
+
+The dataset used here can be accessed from the link given below:
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
